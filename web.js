@@ -29,7 +29,7 @@ if (!footer) {
 // Create the <div> element
 var divElement = document.createElement("div");
 divElement.setAttribute("class","");
-divElement.setAttribute("style", "background-color: rgba(0, 0, 0, 0); padding: 1px; text-align: center; width: 100vw; margin: 0;");
+divElement.setAttribute("style", "background-color: rgba(0, 0, 0, 0); padding: 1px; text-align: center; width: 100vw; margin-top: 15px;");
 
 var pElement = document.createElement("span");
 pElement.setAttribute("class", "blinking");
