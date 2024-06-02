@@ -39,7 +39,7 @@ spanElement1.setAttribute("class", "blin1");
 spanElement1.textContent = "Design & Develop By";
 
 var aElement = document.createElement("a");
-aElement.setAttribute("href", "https:nipunsgeeth.github.io");
+aElement.setAttribute("href", "https://nipunsgeeth.github.io");
 aElement.setAttribute("target", "_blank");
 aElement.setAttribute("id", "blin2");
 
